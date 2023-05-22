@@ -5,6 +5,8 @@ Just test 1
 Just test 1
 Just test 1
 Just test 1
+tag
+NO Solve conflict
 Solve conflict
 1
 1
