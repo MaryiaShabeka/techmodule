@@ -5,6 +5,7 @@ Just test 1
 Just test 1
 Just test 1
 Just test 1
+Solve conflict
 1
 1
 1
